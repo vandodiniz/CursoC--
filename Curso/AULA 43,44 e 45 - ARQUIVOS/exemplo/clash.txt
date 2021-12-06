@@ -1,0 +1,5 @@
+1, Vandolino, Mid/ADC, 3
+2, Jensom, Suporte/Top, 12
+3, Hide on Pokeball, Mid/ADC 25
+4, Taka Fire, Mid/Suporte, 15
+5, Bijorge, Mid/Jungle/ADC, 30
